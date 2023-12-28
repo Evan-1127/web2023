@@ -101,12 +101,20 @@ div.father div.righ {
   background-color: rgb(8, 169, 243);
   color: rgb(255, 255, 255);
   border: 4px solid rgb(0, 0, 0);
-  margin: 10px;
-  padding: 10px;
+  margin: 20px;
+  padding: 20px;
   color: rgb(255, 255, 255);
 }
 .center {
-  background-color: rgb(20, 103, 180);
+  background-color: rgb(34, 138, 235);
+  color: rgb(255, 255, 255);
+  border: 4px solid rgb(0, 0, 0);
+  margin: 20px;
+  padding: 20px;
+  color: rgb(255, 255, 255);
+}
+.e {
+  background-color: rgb(24, 106, 182);
   color: rgb(255, 255, 255);
   border: 4px solid rgb(0, 0, 0);
   margin: 20px;
